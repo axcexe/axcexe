@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with **Learning anything next gen Cybersecurity related**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **Discussion issue**
-- 😄 Pronouns: **He/Him/His
+- 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I'ma hiker**
 
 ---
