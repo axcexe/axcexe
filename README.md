@@ -16,7 +16,7 @@
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **Discussion issue**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I'ma hiker**
+- ⚡ Fun fact: **I love hiking**
 
 ---
 
