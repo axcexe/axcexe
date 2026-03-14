@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Quick Bio
-- 🔭 I’m currently working on **N8N Worflow Development and Test**
-- 🌱 I’m currently learning **AI in Cyber**
-- 👯 I’m looking to collaborate on **Anything next gen cybersecurty related**
+- 🔭 I’m currently working on **Cybersecurity automation development**
+- 🌱 I’m currently learning **IAM/AI/Cybersec**
+- 👯 I’m looking to collaborate on **Learning next gen technologies and automation**
 - 🤔 I’m looking for help with **Learning anything next gen Cybersecurity related**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **Discussion issue**
