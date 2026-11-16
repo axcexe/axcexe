@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Quick Bio
-- 🔭 I’m currently working on **AI Security Identity**
+- 🔭 I’m currently working on **AI Identity Security**
 - 🌱 I’m currently learning **IAM/AI/Cybersec**
 - 👯 I’m looking to collaborate on **Learning next gen technologies and automation**
 - 🤔 I’m looking for help with **Learning anything next gen Cybersecurity related**
